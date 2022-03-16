@@ -32,8 +32,8 @@
 > apt install nodejs -y
 > apt install ffmpeg -y
 > apt install imagemagick -y
-> git clone https://github.com/GataNina-Li/GataBotV2
-> cd GataBotV2
+> git clone https://github.com/donexo7/DarkBotV2
+> cd DarkV2
 > ls
 > npm install
 > npm install -g npm@8.5.3
