@@ -8,10 +8,10 @@ let fetch = require('node-fetch')
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 let mentionedJid = [who]
 let username = conn.getName(who)
-let pp = 'https://i.imgur.com/BfsbCOR.jpg'
+let pp = 'https://imgur.com/5FldLcu'
 let menu =`
-╭━〘 🐈⚡️🐈⚡️🐈⚡️🐈⚡️🐈 〙━╮
- ‖ ֎┉┉┉⊰ 𝙂𝙖𝙩𝙖𝘽𝙤𝙩 | 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 ⊱┉┉┉֍
+╭━〘 💀⚡💀⚡💀⚡💀 〙━╮
+ ‖ ֎┉┉┉⊰ DarkBot | Gata dios-exo ⊱┉┉┉֍
  ‖ 💖 *¡𝗛ola! ${username}* 💖
  ‖    ֎┉┉┉┉┉┉⊰ 🌟 ⊱┉┉┉┉┉┉┉֍
  ‖
@@ -57,10 +57,10 @@ let menu =`
  ‖ ✅ *_CUENTAS OFICIALES GATABOT_* ✅
  ‖⇶ _${usedPrefix}cuentasgatabot | cuentasgb_
  ‖
-╰━〘 🐈🌟🐈🌟🐈🌟🐈🌟🐈 〙━╯
-𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨`.trim()
+╰━〘 💀⭐💀⭐💀⭐💀 〙━╯
+Gata dios-exo`.trim()
 conn.send3ButtonLoc(m.chat, (await fetch(pp)).buffer(), `
-⁖ᯓ፨҈༺ 𝙂𝙖𝙩𝙖𝘽𝙤𝙩 | 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 ༻፨҈ᯓ⁖
+⁖ᯓ፨҈༺ DarkBot | Gata dios-exo ༻፨҈ᯓ⁖
 `.trim(), menu, 'Ⓜ️ 𝙈𝙀𝙉𝙐 𝘾𝙊𝙈𝙋𝙇𝙀𝙏𝙊 Ⓜ️', `#mcompleto`, '🔖 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾𝙄𝙊𝙉 𝘿𝙀𝙇 𝙈𝙀𝙉𝙐 🔖', `#menuinfobot`, '🎮 𝙈𝙀𝙉𝙐 𝘿𝙀 𝙅𝙐𝙀𝙂𝙊𝙎 🎮', `#menujuego`, m, false, { contextInfo: { mentionedJid }})}
 handler.command = /^(menu|menú|memu|memú|help|info|comandos|menu1.2|allmenu|2help)$/i
 module.exports = handler
