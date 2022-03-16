@@ -8,7 +8,7 @@ let fetch = require('node-fetch')
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 let mentionedJid = [who]
 let username = conn.getName(who)
-let pp = 'file:///C:/Users/ove/Downloads/Menu2.jpg'
+let pp = 'https://imgur.com/a/xKTLuF3'
 let menu =`
 ╭━〘 💀⚡💀⚡💀⚡💀 〙━╮
  ‖ ֎┉┉┉⊰ DarkBot | Gata dios-exo ⊱┉┉┉֍
