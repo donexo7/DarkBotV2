@@ -10,15 +10,6 @@
 <a href="https://github.com/GataNina-Li/GataBotV2/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/GataNina-Li/GataBotV2?label=Watchers&color=green&style=flat-square"></a>
 <a href="https://github.com/GataNina-Li/GataBotV2/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/GataNina-Li/GataBotV2?label=Stars&color=yellow&style=flat-square"></a>
 </p> 
-
-###### 👇 Si tiene dudas 
-#### 💚 *CONTACTO #1* 
-[![blog](https://img.shields.io/badge/Gata_Dios-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://api.whatsapp.com/send?phone=14509777159&text=¡Hola!%20Gata%20Dios%20😸%20vengo%20de%20GitHub) 
-  
-#### 💚 *CONTACTO #2*  
-[![blog](https://img.shields.io/badge/Gata_Dios-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://api.whatsapp.com/send?phone=593968585383&text=¡Hola!%20Gata%20Dios%20😸%20vengo%20de%20GitHub) 
 --------- 
  
 ### ✅ DEBE DE TENER A SU DISPOSICIÓN: 
@@ -51,7 +42,7 @@
 ```
 
 ### 😸 RECOMENDACIONES:
-> #### *⚠️  De hacer una bifurcación o extracción de este respositorio, es posible que no reciba futuras actualizaciones de GataBot*
+> #### *⚠️  De hacer una bifurcación o extracción de este respositorio, es posible que no reciba futuras actualizaciones de DarkBot*
 
 ```bash
 > ❇️ Recuerde que para que su número sea Owner/Propietario(a) debe de agregar
@@ -101,4 +92,4 @@ y el Whatsapp que este usando. Lo aconsejable es máximo 45 grupos
 [![ryznxx](https://github.com/ryznxx.png?size=100)](https://github.com/ryznxx) 
 <a href="https://github.com/apps/dependabot"><img src="https://avatars.githubusercontent.com/in/29110?v=4" width="100" height="100" alt="@dependabot[bot]"/></a> 
 [![itsmeR1F4I](https://github.com/itsmeR1F4I.png?size=100)](https://github.com/itsmeR1F4I) 
-[![ZeroChanBot](https://github.com/ZeroChanBot.png?size=100)](https://github.com/ZeroChanBot)
+[![ZeroChanBot](https://github.com/donexo7.png?size=100)](https://github.com/donexo7)
