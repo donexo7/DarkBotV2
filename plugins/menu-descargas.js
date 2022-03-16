@@ -8,10 +8,10 @@ let fetch = require('node-fetch')
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 let mentionedJid = [who]
 let username = conn.getName(who)
-let pp = 'https://i.imgur.com/BfsbCOR.jpg'
+let pp = 'https://imgur.com/a/xKTLuF3'
 let menu =` 
-╭━〘 🐈⚡️🐈⚡️🐈⚡️🐈⚡️🐈 〙━╮
- ‖ ֎┉┉┉⊰ 𝙂𝙖𝙩𝙖𝘽𝙤𝙩 | 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 ⊱┉┉┉֍
+╭━〘 💀⚡💀⚡💀⚡💀⚡💀 〙━╮
+ ‖ ֎┉┉┉⊰ Gata dios-exo | Gata dios-exo ⊱┉┉┉֍
  ‖ 💖 *¡𝗛ola! ${username}* 💖
  ‖    ֎┉┉┉┉┉┉⊰ 🌟 ⊱┉┉┉┉┉┉┉֍
  ‖
@@ -45,10 +45,10 @@ let menu =`
  ‖⇛ 🚀 _${usedPrefix}frase *escriba un número (1 - 99)*_
  ‖⇛ 🚀 _${usedPrefix}wpaesthetic | fondoaesthetic_
  ‖ ➥ ⧼ *_MENÚ DE DESCARGAS_* ⧽  
-╰━〘 🐈🌟🐈🌟🐈🌟🐈🌟🐈 〙━╯
-𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨`.trim()
+╰━〘 💀⭐💀⭐💀⭐💀⭐ 〙━╯
+Gata dios-exo`.trim()
 conn.send3ButtonLoc(m.chat, (await fetch(pp)).buffer(), `
-⁖ᯓ፨҈༺ 𝙂𝙖𝙩𝙖𝘽𝙤𝙩 | 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 ༻፨҈ᯓ⁖
+⁖ᯓ፨҈༺ DarkBot | Gata dios-exo ༻፨҈ᯓ⁖
 `.trim(), menu, '🔐 𝙂𝙀𝙎𝙏𝙄𝙊𝙉 𝘿𝙀 𝙂𝙍𝙐𝙋𝙊 🔐', `#menugrupo`, '🎨 𝙈𝙀𝙉𝙐 𝘿𝙀 𝘾𝙍𝙀𝘼𝘾𝙄𝙊𝙉 🎨', `#menucreador`, '💥 𝘼𝙉𝙄𝙈𝙀/𝙍𝘼𝙉𝘿𝙊𝙈 💥', `#menurandom`, m, false, { contextInfo: { mentionedJid }})}
 
 handler.command = /^(menudescarga|menudescargas|Menudescargas|Menúdescargas|Menúdescarga|menúdescarga)$/i
