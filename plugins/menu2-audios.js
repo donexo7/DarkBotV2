@@ -15,7 +15,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     let { min, xp, max } = levelling.xpRange(level, global.multiplier)
     let username = conn.getName(who)
     let str = `
-╭══〘 🐈⚡️🐈⚡️🐈⚡️🐈 〙══╮    
+╭══〘 💀⚡💀⚡💀⚡💀 〙══╮    
 ⎪ *_ミ💖 ¡Hola! ${username} 💖彡_*
 ⎪≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ⎪ *MENU DE AUDIOS*
@@ -95,10 +95,10 @@ let handler = async (m, { conn, usedPrefix }) => {
 ⎪➫🔊 _Niconico_
 ⎪➫🔊 _Yokese_
 ⎪➫🔊 _Omaiga_
-╰══〘 🐈⚡️🐈⚡️🐈⚡️🐈 〙══╯
+╰══〘 💀⚡💀⚡💀⚡💀 〙══╯
 
 ╭════• ೋ•✧๑♡๑✧•ೋ •════╮
-                      🐈 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 🐈
+                      💀 DarkBot 💀
          0:40 ━❍──────── -8:39
          ↻     ⊲  Ⅱ  ⊳     ↺
          VOLUMEN: ▁▂▃▄▅▆▇ 100%
