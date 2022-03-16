@@ -3,7 +3,7 @@ let fetch = require('node-fetch')
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 let mentionedJid = [who]
 let username = conn.getName(who)
-let pp = 'https://i.imgur.com/BfsbCOR.jpg'
+let pp = 'https://imgur.com/5FldLcu'
 let menu =`
 ╭══〘 💀⚡💀⚡💀⚡💀 〙══╮
 ║═ DarkBot | Gata dios-exo
