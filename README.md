@@ -1,4 +1,4 @@
-# 𝙂𝙖𝙩𝙖𝘽𝙤𝙩
+# DarkBot
 
 <p align="center"> 
 </p> 
